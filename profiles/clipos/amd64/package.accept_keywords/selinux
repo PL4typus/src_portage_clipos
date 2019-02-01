@@ -1,0 +1,7 @@
+#Adding keyword for selinux support
+~sec-policy/selinux-base-policy-2.20180701-r1 ~amd64
+~sec-policy/selinux-base-policy-2.20180114-r3 ~amd64
+=sec-policy/selinux-base-policy-9999 **
+=sec-policy/selinux-base-9999 **
+=sec-policy/selinux-base-2.20180701-r1 ~amd64
+=sys-apps/systemd-238-r100 ~amd64
