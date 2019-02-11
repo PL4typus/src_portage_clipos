@@ -1,0 +1,2 @@
+>=sys-libs/libselinux-2.8 python
+>=sys-libs/libsemanage-2.8 python
