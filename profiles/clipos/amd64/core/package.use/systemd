@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sys-apps/systemd cryptsetup curl gcrypt -gnuefi http idn ssl sysv-utils networkd selinux systemd
-=======
-sys-apps/systemd cryptsetup curl gcrypt -gnuefi http idn ssl sysv-utils networkd selinux
->>>>>>> 3e8ca880573b14602b8264e810a9089a4b4ad659
+
