@@ -1,1 +1,1 @@
-sys-apps/systemd cryptsetup curl gcrypt -gnuefi http idn ssl sysv-utils networkd
+sys-apps/systemd cryptsetup curl gcrypt -gnuefi http idn ssl sysv-utils networkd selinux systemd
