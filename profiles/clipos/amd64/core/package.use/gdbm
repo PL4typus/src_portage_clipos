@@ -1,0 +1,6 @@
+# required by dev-lang/python-2.7.14-r1::gentoo[gdbm]
+# required by sys-libs/libselinux-2.8::gentoo[python_targets_python2_7]
+# required by sys-libs/pam-1.2.1-r2::gentoo
+# required by sys-auth/pambase-20150213-r1::gentoo
+>=sys-libs/gdbm-1.13-r2 berkdb
+

@@ -1,2 +1,3 @@
 ..
 gentoo:targets/systemd
+gentoo:default/linux/amd64/17.0/no-multilib/hardened/selinux
