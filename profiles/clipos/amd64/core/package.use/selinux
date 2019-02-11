@@ -1,14 +1,3 @@
 sec-policy/selinux-base-policy open_perms peer_perms systemd ubac unconfined 
-#The following USE changes are necessary to proceed:
-# (see "package.use" in the portage(5) man page for more details)
-# required by sys-apps/selinux-python-2.8::gentoo
-# required by sys-apps/policycoreutils-2.8::gentoo
-# required by sec-policy/selinux-unconfined-2.20180114-r2::gentoo
-# required by sec-policy/selinux-base-policy-9999::clipos[unconfined]
-# required by sec-policy/selinux-base-policy (argument)
 >=sys-libs/libselinux-2.8 python
-# required by sys-apps/policycoreutils-2.8::gentoo
-# required by sec-policy/selinux-unconfined-2.20180114-r2::gentoo
-# required by sec-policy/selinux-base-policy-9999::clipos[unconfined]
-# required by sec-policy/selinux-base-policy (argument)
 >=sys-libs/libsemanage-2.8 python
