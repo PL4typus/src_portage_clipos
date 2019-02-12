@@ -26,6 +26,8 @@ RDEPEND+="
 	app-misc/jq
 	sys-fs/cryptsetup
 	sys-fs/squashfs-tools
+	sec-policy/selinux-base
+	sec-policy/selinux-base-policy
 "
 
 # Convenience tools for the developper
