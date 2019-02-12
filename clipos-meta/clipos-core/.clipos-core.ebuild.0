@@ -24,6 +24,8 @@ RDEPEND="
 	sys-libs/zlib
 	sys-process/procps
 	sys-process/psmisc
+	sec-policy/selinux-base
+	sec-policy/selinux-base-policy
 	virtual/libc
 	virtual/modutils
 	virtual/os-headers
